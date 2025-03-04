@@ -11,10 +11,10 @@ document.addEventListener("DOMContentLoaded", () => {
       "Apr",
       "May",
       "Jun",
-      "Jul",
-      "Aug",
-      "Sep",
-      "Oct",
+      "July",
+      "August",
+      "September",
+      "Octcober",
       "Nov",
       "Dec",
     ];
@@ -175,7 +175,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     } else {
                       alert(
                         "Failed to create Reference Url record: " +
-                          RefrenceurlData.message
+                        RefrenceurlData.message
                       );
                     }
                   })
